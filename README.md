@@ -6,7 +6,7 @@ Full Stack Developer
 
 I have 3 years in the marketplace, working with HTML, CSS, ES6+, PHP7+, SQL (MySQL/MariaDB) and Frameworks such as VueJS, Bootstrap, JQuery, Laravel and now Ionic/Angular.
 
-* 🌍  I'm based in Macapá / Amapá / Brazil
+* 🌍  I'm based in São Paulo / São Paulo / Brazil
 * ✉️  You can contact me at [me.felipeoliveira@gmail.com](mailto:me.felipeoliveira@gmail.com)
 * 🧠  I'm learning ShellScripting, Ruby, CSS Grid
 
