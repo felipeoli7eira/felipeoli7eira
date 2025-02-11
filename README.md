@@ -1,6 +1,6 @@
 
 * 🖥️  See my portfolio at [felipeoliveira.online](http://felipeoliveira.online)
-* ✉️  You can contact me at [me.felipeoliveira@gmail.com](mailto:me.felipeoliveira@gmail.com)
+* ✉️  You can contact me at [contato@felipeoliveira.online](mailto:contato@felipeoliveira.online)
 
   <div align="center" >
 <a href="https://skillicons.dev"   >
