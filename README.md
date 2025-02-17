@@ -4,7 +4,7 @@
 
   <div align="center" >
 <a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,git,vscode,react,next,vue,nuxtjs,angular,tailwind,sass,nodejs,express,vue,docker,github,materialui,linux,postman,styledcomponents,vercel,netlify,vite,bootstrap,mongodb,postgres,mysql,pinia,windows,astro,bash,firebase,nodejs,npm,php,laravel,sqlite,vuetify" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,git,vscode,react,next,vue,nuxtjs,angular,tailwind,sass,nodejs,express,docker,github,materialui,linux,postman,styledcomponents,vercel,netlify,vite,bootstrap,mongodb,postgres,mysql,pinia,windows,astro,bash,firebase,npm,php,laravel,sqlite,vuetify" />
 </a>
   </div>
 <br />
